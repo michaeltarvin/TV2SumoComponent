@@ -1,0 +1,9 @@
+C:\git\TV2SumoComponent\Build\PayMedia.ApplicationServices.TV2.IFComponents.dll
+C:\git\TV2SumoComponent\Build\PayMedia.ApplicationServices.TV2.IFComponents.pdb
+C:\git\TV2SumoComponent\Build\Binaries\PayMedia.ApplicationServices.TV2.IFComponents.dll
+C:\git\TV2SumoComponent\Build\Binaries\PayMedia.ApplicationServices.TV2.IFComponents.pdb
+C:\git\TV2SumoComponent\TV2SumoComponent\obj\Debug\TV2SumoComponent.csproj.CoreCompileInputs.cache
+C:\git\TV2SumoComponent\TV2SumoComponent\obj\Debug\TV2SumoComponent.csproj.CopyComplete
+C:\git\TV2SumoComponent\TV2SumoComponent\obj\Debug\PayMedia.ApplicationServices.TV2.IFComponents.dll
+C:\git\TV2SumoComponent\TV2SumoComponent\obj\Debug\PayMedia.ApplicationServices.TV2.IFComponents.pdb
+C:\git\TV2SumoComponent\TV2SumoComponent\obj\Debug\TV2SumoComponent.csprojAssemblyReference.cache
